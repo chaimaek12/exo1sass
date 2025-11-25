@@ -1,9 +1,17 @@
 .section3{
-    background-color: palevioletred;
+    background-color: rgb(205, 138, 160);
     padding-left: 100px;
     padding-right: 50px;
 }
 h3{
-    color:purple ;
+    color: $mycolor ;
     
+}
+span{
+     font-weight: 900; 
+}
+@media (max-width: 400px){
+    .section3 {
+        padding: unset;
+    }
 }

@@ -3,3 +3,10 @@
   padding-right: 50px;
 
 }
+
+
+@media (max-width: 400px){
+  .section2{
+    padding: unset;
+  }
+}

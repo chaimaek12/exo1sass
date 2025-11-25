@@ -2,3 +2,17 @@
      padding-left: 100px;
     padding-right: 50px;
 }
+h2{
+    color: $mycolor ;
+}
+.modification{ 
+    display: flex;
+   align-items: center;
+ justify-content: space-between;
+}
+.colorer{  color: $mycolor ;
+
+}
+@media (max-width: 400px){
+    .section6{padding: unset;}
+}
