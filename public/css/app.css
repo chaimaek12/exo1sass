@@ -5,7 +5,31 @@ img {
   padding-right: 50px;
 }
 
-h1 {
+h1, p {
+  padding-left: 100px;
+  padding-right: 50px;
+}
+
+.section3 {
+  background-color: palevioletred;
+}
+
+h3 {
+  color: purple;
+  padding-left: 100px;
+  padding-right: 50px;
+}
+
+ul {
+  padding-left: 100px;
+  padding-right: 50px;
+}
+
+h3 {
+  color: purple;
+}
+
+.section5 h2 {
   color: red;
 }
 
