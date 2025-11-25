@@ -5,32 +5,42 @@ img {
   padding-right: 50px;
 }
 
-h1, p {
+.section2 {
   padding-left: 100px;
   padding-right: 50px;
 }
 
 .section3 {
   background-color: palevioletred;
-}
-
-h3 {
-  color: purple;
-  padding-left: 100px;
-  padding-right: 50px;
-}
-
-ul {
   padding-left: 100px;
   padding-right: 50px;
 }
 
 h3 {
   color: purple;
+}
+
+h3 {
+  color: purple;
+}
+
+.section4 {
+  padding-left: 100px;
+  padding-right: 50px;
 }
 
 .section5 h2 {
   color: red;
+}
+
+.section5 {
+  padding-left: 100px;
+  padding-right: 50px;
+}
+
+.section6 {
+  padding-left: 100px;
+  padding-right: 50px;
 }
 
 /*# sourceMappingURL=app.css.map */
